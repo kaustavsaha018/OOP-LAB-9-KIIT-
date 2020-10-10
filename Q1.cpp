@@ -1,5 +1,3 @@
-//binary operator overloading
-
 #include<iostream>
 using namespace std;
 
