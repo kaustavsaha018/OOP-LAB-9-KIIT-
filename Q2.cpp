@@ -54,7 +54,7 @@ class Rational{
 			num=num+denom;
 		}
 		
-		Rational operator ++(int){
+		void operator ++(int){
 			num=num+denom;
 		}
 		
