@@ -23,8 +23,8 @@ class Complex{
 		}
 		
 		void operator -(){
-			real--;
-			img--;
+			real=-real;
+			img=-img;
 		}
 		
 		void display(){
